@@ -2,7 +2,7 @@ remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Wojciech Szyba
-description: Python practitioner with commercial scripting experience (CI/CD automation) and full-stack backend experience (Django, Flask).
+description: Python practitioner with commercial data engineering and scripting expertise (CI/CD automation) as well as full-stack backend experience (Django, Flask).
 
 github:
   repository_url: https://github.com/wojciech-szyba/wojciech-szyba
