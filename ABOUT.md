@@ -1,3 +1,9 @@
+---
+title: About
+---
+
+# About
+
 As a B2B data engineering contractor, I help companies transform raw data into actionable insights and business value through scalable data processing solutions. 
 
 With experience in both startups and enterprises, I design, build, and optimize production-grade ETL processes, data warehouses (Redshift, Snowflake), and custom solutions like Lambda functions for API/SFTP integrations.
