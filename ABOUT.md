@@ -1,7 +1,3 @@
----
-title: About
----
-
 # About
 
 As a B2B data engineering contractor, I help companies transform raw data into actionable insights and business value through scalable data processing solutions. 
