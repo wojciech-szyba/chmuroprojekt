@@ -17,5 +17,7 @@ I work best as a **hands‑on engineer embedded in your team**, either as:
 - A **long‑term freelance partner** for architecture and implementation, or  
 - A **short‑term contractor** to unblock data/backend challenges and raise the bar for your team.
 
+To learn more about my background, see the [About page](ABOUT.md).
+
 If you need help with data infrastructure, pipeline modernization, or backend services, feel free to reach out via 
 [Email](mailto:wojciech.szyba@protonmail.com) or connect through [LinkedIn](https://www.linkedin.com/in/wojciech-szyba-669792162/).
