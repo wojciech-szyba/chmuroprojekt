@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Chmuroprojekt Wojciech Szyba
 description: Bookmark this to keep an eye on my project updates!
+
+github:
+  repository_url: https://github.com/wojciech-szyba/wojciech-szyba
