@@ -12,8 +12,6 @@ You've scaled up your Kubernetes cluster. EC2 instances are running. CPU and mem
 And yet — the number of completed Dagster runs stubbornly refuses to climb. If you've been in this situation,
 you know the particular frustration of a platform that looks healthy but processes jobs at a trickle.
 
-Data Engineering &nbsp; | &nbsp; Open Source &nbsp; | &nbsp; Dagster &nbsp; | &nbsp; Infrastructure &nbsp; | &nbsp; Kubernetes
-
 [**Read on Medium →**](https://medium.com/@wojciech.szyba/dagster-on-kubernetes-when-more-nodes-wont-save-you-d591ba6669fd)
 
 ---
@@ -24,8 +22,6 @@ Data Engineering &nbsp; | &nbsp; Open Source &nbsp; | &nbsp; Dagster &nbsp; | &n
 
 How a simple configuration tool can remove weeks of infrastructure work for solo developers,
 small teams, and anyone evaluating modern data stacks.
-
-Data Engineering &nbsp; | &nbsp; Open Source &nbsp; | &nbsp; Infrastructure &nbsp; | &nbsp; Docker &nbsp; | &nbsp; Kubernetes
 
 [**Read on Medium →**](https://medium.com/@wojciech.szyba/data-engineering-open-source-infrastructure-c648be692bd4)
 
@@ -38,15 +34,11 @@ Data Engineering &nbsp; | &nbsp; Open Source &nbsp; | &nbsp; Infrastructure &nbs
 A step-by-step tutorial using Data Platform Wizard to generate a production-ready Docker stack
 of a fully equipped Data Platform scaffold.
 
-Data Engineering &nbsp; | &nbsp; Open Source &nbsp; | &nbsp; Infrastructure &nbsp; | &nbsp; Docker &nbsp; | &nbsp; Kubernetes
-
 [**Read on Medium →**](https://medium.com/@wojciech.szyba/from-zero-to-running-data-platform-in-5-minutes-a-hands-on-walkthrough-b9895a9933a6)
 
 ---
 
 ## [Video Tutorial: Data Platform Wizard Walkthrough](https://www.youtube.com/watch?v=w6HZbLJn9qM)
-
-Tutorial
 
 [**Watch on YouTube →**](https://www.youtube.com/watch?v=w6HZbLJn9qM)
 
